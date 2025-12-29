@@ -1,0 +1,38 @@
+# Azure credentials
+.env
+
+# Data files - Ne pas commit les données sensibles
+*.csv
+*.xlsx
+*.parquet
+online_retail_II.xlsx
+online_retail_clean.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Power BI - Ne pas commit les fichiers volumineux
+*.pbix
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Cache
+.cache/
