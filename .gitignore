@@ -205,3 +205,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ========================================
+# Azure E-commerce Project Specific
+# ========================================
+
+# Azure credentials
+.env
+
+# Data files - Ne pas commit les données sensibles
+*.csv
+*.xlsx
+*.parquet
+online_retail_II.xlsx
+online_retail_clean.csv
+
+# Power BI - Fichiers volumineux
+*.pbix
+
+# VS Code workspace
+.vscode/
+*.code-workspace
