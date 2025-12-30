@@ -310,13 +310,7 @@ python load_fact_orders.py
 
 **Godson HOUNSONLON**
 - GitHub: [@GodsonHOUNSONLON](https://github.com/GodsonHOUNSONLON)
-- LinkedIn: [Votre profil LinkedIn]
-- Email: votre.email@example.com
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
----
+- LinkedIn: godson-hounsonlon
+- Email: hounsonlongodson@gmail.com
 
 ⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !
